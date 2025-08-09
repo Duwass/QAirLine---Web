@@ -3,7 +3,6 @@
 
 # QAirLine - Ứng dụng Web Đặt vé Máy bay
 
-*Cập nhật lần cuối: 22-12-2024*
 
 Chào mừng bạn đến với QAirLine, một dự án ứng dụng web đặt vé máy bay toàn diện. Hệ thống cho phép người dùng tìm kiếm, đặt và quản lý các chuyến bay, trong khi quản trị viên có thể quản lý toàn bộ hoạt động của hãng bay, từ máy bay, chuyến bay đến khách hàng và các chương trình ưu đãi.
 
